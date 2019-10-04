@@ -1,4 +1,4 @@
-# HW2: Domain decomposition and stationary iteration
+# HW3: Domain decomposition and stationary iteration
 ## Due: 2019-10-14 (Monday)
 
 Click to [accept this assignment](https://classroom.github.com/a/nq25J0Vt)
