@@ -11,7 +11,7 @@ $ wget http://ftp.mcs.anl.gov/pub/petsc/release-snapshots/petsc-lite-3.12.0.tar.
 
 ```
 $ tar xf petsc-lite-3.12.0.tar.gz
-$ cd petsc-3.12.0.tar.gz
+$ cd petsc-3.12.0
 $ export PETSC_DIR=$HOME/petsc-3.12.0 PETSC_ARCH=mpich-dbg
 $ cd $PETSC_DIR
 $ ./configure --with-fortran-bindings=0 --with-blaslapack-lib=/opt/conda/lib/liblapack.so
