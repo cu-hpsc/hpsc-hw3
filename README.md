@@ -36,7 +36,7 @@ different `PETSC_ARCH`.
 
 ```
 $ export PETSC_ARCH=mpich-opt
-$ ./configure --with-fortran-bindings=0 --with-blaslapack-lib=/opt/conda/lib/liblapack.so --with-debugging=0 COPTFLAGS='-O3 -march=native"
+$ ./configure --with-fortran-bindings=0 --with-blaslapack-lib=/opt/conda/lib/liblapack.so --with-debugging=0 COPTFLAGS='-O3 -march=native'
 [...]
 $ make
 ```
